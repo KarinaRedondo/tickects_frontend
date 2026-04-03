@@ -4,6 +4,7 @@
 
 ---
 
+# Sistema de Gestión Comunitaria de Casos, Incidencias y Servicios  
 # TICKETS — Frontend
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
